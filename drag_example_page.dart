@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:extended_image/extended_image.dart';
-import 'package:habit/habit.dart';
 import 'package:vibration/vibration.dart';
 
 class PicModel {
